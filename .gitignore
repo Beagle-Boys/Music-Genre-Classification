@@ -1,0 +1,7 @@
+env/
+archive/
+gitzan_norm/
+*.wav
+*.json
+mapped_genres.npy
+*.ipynb
