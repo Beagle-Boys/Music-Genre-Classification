@@ -105,5 +105,5 @@
     ![Plots](./plots/gru_history.png)
 
 * **Comments** :
-    - GNU performs very well. Better than LSTM.
+    - GRU performs very well. Better than LSTM.
     - Slowest (as slow as LSTM)
