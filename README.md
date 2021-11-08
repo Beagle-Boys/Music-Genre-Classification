@@ -89,5 +89,21 @@
     ![Plots](./plots/lstm_history.png)
 
 * **Comments** :
-    - RNN performs very well.
+    - LSTM performs very well.
     - Slowest
+
+***
+
+### Recurrent Neural Network (GRU)
+
+* **Architecture** 
+    
+    ![Architecture](./plots/gru.png)
+
+* **Result** 
+    
+    ![Plots](./plots/gru_history.png)
+
+* **Comments** :
+    - GNU performs very well. Better than LSTM.
+    - Slowest (as slow as LSTM)
